@@ -10,15 +10,32 @@ header{
     nav{
         text-align: center;
         padding: 1rem;
-        background-color: black;
-        background-size: 50%;
+        background-color: rgb(65, 64, 64);
+        background-size: auto;
          
     }
 
     nav > a {
         text-decoration: none;
-        color: whitesmoke
+        color: whitesmoke;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        background-color: black;
     }
+        
+       
+        nav > a:hover {
+            text-decoration: none;
+            color: rgb(255, 255, 255);
+            padding-left: 2rem;
+            padding-right: 2rem;
+            margin-left: 1rem;
+            margin-right: 1rem;
+            background-color: rgb(151, 151, 151);
+}
+   
     .helen{
     height: 60%;
     width: 30%;
@@ -31,19 +48,10 @@ header{
     background-repeat: no-repeat;
     text-align: center;
     
-    
-    
     }
-    nav{
-        text-align: center;
-        padding: 1rem;
-        background-color: black;
-        background-size: 50%;
-         
-        
-    }
+    
     .helen{
-    max-height: 60%;
+    max-height: 30%;
     max-width: 30%;
     background-position: center;
     
@@ -55,8 +63,9 @@ header{
     
        body{
         background-color:#cfcecc;
-        color: rgb(53, 53, 53) ;
+        color: black;
         margin: 0;
+        font-weight: bold;
         
 
         
@@ -79,8 +88,9 @@ header{
     
     .next{
         text-align: center;
-        padding: 1rem;
-        color:whitesmoke 
+        text-decoration: none;
+        color: whitesmoke;
+        background-color: rgb(65, 64, 64);   
         }
     
     .war{
@@ -178,6 +188,6 @@ header{
     }
 
     .responsive {
-        width: 100%;
+        width: 75%;
         height: auto;
       }
