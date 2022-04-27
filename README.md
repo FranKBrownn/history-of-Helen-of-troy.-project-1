@@ -23,11 +23,29 @@ my website helps people to learn the basics in the greek myth, Helen of Troy and
 
 . This page includes a list a the men involved in Helens life. This allows the user to easily search up any other men not included in this web page. 
 
-### page 3 additional information form 
+### sign up page  
 
 . The final page of the web document includes a form for the ueser to fill in. 
 
 . The form would help the user to accsess more usefull information from other sources if they would like to continue researching into this topic. 
+
+
+### footer
+
+. the footer eliment dosen't add anything to the user other then giveing copy right information. 
+
+. this will only be useful if you wanted to refrence the website. 
+
+## testing
+
+. I have tested all of the nav tools and the link the user correctly the the right page. 
+
+. My form has working requirement eliments making the user put in the correct information before the submit button can work as intended. 
+
+. the respsivnes of the page works to a degree the words and images do adjust when changing the size of the browers but it dosen't look as smooth as i would like on smaller   devices 
+
+.
+
 
 
 
