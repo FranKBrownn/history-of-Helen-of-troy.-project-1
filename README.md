@@ -9,8 +9,26 @@ my website helps people to learn the basics in the greek myth, Helen of Troy and
 
 . The navigation bar is a helpful way for the user to find the infomtion they need about the subject of the website. 
 
-### introduction to the myth
+### page one introduction to the myth
 
-.the 1st page is a basic artical style page that gives the user the base level information about the greek myth 
+. The 1st page is a basic artical style page that gives the user the base level information about the greek myth 
 
-. the page also has some images from old paintings and books to make the page more colourful
+. The page also has some images from old paintings and books to make the page more colourful
+
+### page two about the war and the men. 
+
+. The 2nd page gose into deeper deatial about the war giving basic informtaion to a few events that happens during the timeline of the war. 
+
+. Like the 1st page it is set up in an artical from giving clear information in a simple structure to allow for easy following.
+
+. This page includes a list a the men involved in Helens life. This allows the user to easily search up any other men not included in this web page. 
+
+### page 3 additional information form 
+
+. The final page of the web document includes a form for the ueser to fill in. 
+
+. The form would help the user to accsess more usefull information from other sources if they would like to continue researching into this topic. 
+
+
+
+  
