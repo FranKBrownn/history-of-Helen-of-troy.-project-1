@@ -44,8 +44,28 @@ my website helps people to learn the basics in the greek myth, Helen of Troy and
 
 . the respsivnes of the page works to a degree the words and images do adjust when changing the size of the browers but it dosen't look as smooth as i would like on smaller   devices 
 
-.
+### html
+. no errors were found when passing through the offical w3c validator 
 
+### css
+
+. no errors were found when passing through the offical w3c validator 
+
+### accessibility
+
+. when running my code through lighthouse all excluding the SEO category where all in the green on all 3 pages with accessibility being at 100 on all 3 pages. 
+
+. SEO was high on the 1st page then in droped on pages 2 and 3. 
+
+
+## deployment
+
+
+## credits. 
+
+. some styling was inspired by the coding institute coffee house project and from https://developer.mozilla.org/ i took knoledge from both soucres to learn form before changing some coulours and numbers to make it my own. 
+
+. all images were taken from https://commons.wikimedia.org/ as displayed within my HTML file. 
 
 
 
