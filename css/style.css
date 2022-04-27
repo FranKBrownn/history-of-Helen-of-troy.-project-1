@@ -1,0 +1,178 @@
+header{
+
+    background-repeat: no-repeat;
+    text-align: center;
+    
+    
+    
+    
+    }
+    nav{
+        text-align: center;
+        padding: 1rem;
+        background-color: black;
+        background-size: 50%;
+         
+    }
+
+    nav > a {
+        text-decoration: none;
+        color: whitesmoke
+    }
+    .helen{
+    height: 60%;
+    width: 30%;
+    background-position: center;
+    
+    }
+    
+    header{
+    
+    background-repeat: no-repeat;
+    text-align: center;
+    
+    
+    
+    }
+    nav{
+        text-align: center;
+        padding: 1rem;
+        background-color: black;
+        background-size: 50%;
+         
+        
+    }
+    .helen{
+    max-height: 60%;
+    max-width: 30%;
+    background-position: center;
+    
+    }
+    
+    .text-white{
+        color:whitesmoke;
+    }
+    
+       body{
+        background-color:#cfcecc;
+        color: rgb(53, 53, 53) ;
+        margin: 0;
+        border-right: 15% black;
+        border-left: 15% black;
+        
+    }
+    header{
+    
+    background-repeat: no-repeat;
+    text-align: center;
+    
+    
+    
+    }
+    .page-select{
+        text-align: center;
+        padding: 1rem;
+        background-color: black;
+        background-size: 50%;
+        font-weight: bold;
+        }
+    
+    .next{
+        text-align: center;
+        padding: 1rem;
+        color:whitesmoke 
+        }
+    
+    .war{
+        background-repeat: no-repeat;
+        text-align: center;
+        height: 60%;
+        width: 30%;
+        background-position: center;
+        
+        
+    }
+    .text-white{
+        color:white;
+    }
+    h2{
+        text-align: center;
+        }
+    
+    h3{
+        text-align: center;
+    }
+    h4{
+        text-align: center;
+        text-transform: capitalize;
+    }
+    
+    .husbands{
+        text-align: center;
+        list-style: none;
+    }
+    li a {
+        display: block;
+        color: whitesmoke;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+        p{ 
+            text-align: center;
+            margin-left: 25%;
+            margin-right: 25%;
+        }
+        
+    .center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    
+    footer {
+        background-color: rgb(65, 64, 64);
+        padding: 1em;
+        text-align: center;
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        z-index: 3;
+        color: whitesmoke;
+    }
+    .margin-bottom{
+        margin-bottom: 81px;
+    }
+    
+    .block {
+        display: block;
+    }
+    
+    
+        
+    
+    
+      
+        
+    
+    form {
+        width: 700px;
+        padding: 25px;
+        border-radius: 8px;
+        margin: 25px auto;
+        background-color: black;
+    }
+    .white{
+        color: whitesmoke;
+    }
+    
+    .terms {
+        height: 200px;
+        width: 90%;
+        padding: 0.5rem;
+        margin: 1.5rem 0 0 15px;
+        border: 1px solid grey;
+        overflow: scroll;
+    }
